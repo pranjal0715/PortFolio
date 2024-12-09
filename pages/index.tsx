@@ -22,7 +22,7 @@ export default function Home() {
     <main>
       <div className="active-dark">
         <HotJar />
-        <Header homeLink="/" color="color-black" />
+        <Header homeLink="/" color="color-white" />
         {/* Start Hero Area   */}
         <div
           id="home"
