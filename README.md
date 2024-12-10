@@ -41,3 +41,42 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 >>>>>>> 9fab250 (Initial commit)
+# Portfolio
+A personal portfolio project.
+
+## Overview
+This is a project created with Next.js, bootstrapped using create-next-app.
+
+## Getting Started
+Follow these steps to set up and run the development server:
+
+## Run one of the following commands:
+
+npm run dev  
+# or  
+yarn dev  
+# or  
+pnpm dev  
+Open your browser and navigate to http://localhost:3000 to view the application.
+
+To edit the page, modify the pages/index.tsx file. Any changes will automatically update the page in real-time.
+
+## API Routes
+
+Access API routes at http://localhost:3000/api/hello.
+Modify the API behavior by editing the pages/api/hello.ts file.
+Files located in the pages/api directory map to /api/* and are treated as API routes.
+Font Optimization
+This project includes next/font for automated optimization and loading of custom Google Fonts, including the Inter font.
+
+## Additional Resources
+Learn more about Next.js using these resources:
+
+Official Documentation – Explore Next.js features and API details.
+Learn Next.js – Dive into an interactive tutorial to build with Next.js.
+Next.js GitHub Repository – Contribute and provide feedback on Next.js.
+
+## Deployment
+Deploy your Next.js application effortlessly using the Vercel Platform.
+
+Refer to the deployment documentation for detailed instructions.
