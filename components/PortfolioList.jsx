@@ -4,14 +4,14 @@ import React, { useState } from "react"
 
 const PortfolioListContent = [
   {
-    image: "/assets/images/portfolio/portfolio-8.jpeg",
+    image: "/assets/images/portfolio/portfolio-8.png",
     category: "Next JS, Javascript, Bootstrap, Redux Toolkit",
     title: "KontoERP",
     link: "",
     info: "A software that provides help in accounting and managing employees work-systems",
   },
   {
-    image: "/assets/images/portfolio/portfolio-4.jpg",
+    image: "/assets/images/portfolio/portfolio-4.png",
     category:
       "React.JS, Tailwind.CSS, Bootstrap ",
     title: "Sunrise Corporation",
@@ -19,7 +19,7 @@ const PortfolioListContent = [
     info: "A company that helps to provide chemicals to the industries",
   },
   {
-    image: "/assets/images/portfolio/portfolio-7.jpg",
+    image: "/assets/images/portfolio/portfolio-7.png",
     category: "React JS, NextJS, Javascript, Material UI, Typescript, Nodejs, Mongodb,Tailwind.CSS , Bootstrap, Redux,",
     title: "Zweler",
     link: "",
