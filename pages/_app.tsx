@@ -17,7 +17,7 @@ export default function App({ Component, pageProps }: AppProps) {
         <title>Pranjal | Fullstack Developer</title>
         <meta
           name="description"
-          content="Senior React Frontend Web Developer, I like to build beautiful websites and web apps"
+          content="React Frontend Web Developer, I like to build beautiful websites and web apps"
         />
         <link rel="icon" href="/favicon.ico" />
         <link rel="shortcut icon" href="/favicon.ico" />

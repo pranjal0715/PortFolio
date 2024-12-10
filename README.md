@@ -28,9 +28,9 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+To learn more  Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Next.js Documentation](https://nextjs.org/docs) - learn  Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
@@ -70,7 +70,7 @@ Font Optimization
 This project includes next/font for automated optimization and loading of custom Google Fonts, including the Inter font.
 
 ## Additional Resources
-Learn more about Next.js using these resources:
+Learn more  Next.js using these resources:
 
 Official Documentation – Explore Next.js features and API details.
 Learn Next.js – Dive into an interactive tutorial to build with Next.js.
