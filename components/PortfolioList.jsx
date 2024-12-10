@@ -25,61 +25,6 @@ const PortfolioListContent = [
     link: "",
     info: "A product based IT Company that onboards manufacturers and retailers at their website in jewellery industry",
   },
-  // {
-  //   image: "/assets/images/portfolio/portfolio-10.jpg",
-  //   category: "HTML, CSS",
-  //   title: "Appollow Teaser",
-  //   link: "https://appollow-teaser.vercel.app/",
-  //   info: "A teaser website for Appollow built with HTML and CSS with some animations.",
-  // },
-  // {
-  //   image: "/assets/images/portfolio/portfolio-11.png",
-  //   category:
-  //     "Next JS, Typescript, GraphQL, Apollo, Web 3, Chakra UI, BigNumberjs, Framer-Motion",
-  //   title: "GraphQL Web 3",
-  //   link: "https://hal-othman.vercel.app/",
-  //   repo: "https://github.com/Othmanosx/hal-web3-graphql",
-  //   info: "A simple Web 3 app built with GraphQL API",
-  // },
-  // {
-  //   image: "/assets/images/portfolio/portfolio-12.jpg",
-  //   category: "TypeScript, Nextjs, Firebase, SASS",
-  //   title: "Fullstack E-commerce POC",
-  //   link: "https://bejamas-othman.vercel.app/",
-  //   repo: "https://github.com/Othmanosx/bejamas-ecommerce-poc",
-  //   info: "A simple Fullstack E-Commerce proof of concept",
-  // },
-  // {
-  //   image: "/assets/images/portfolio/portfolio-5.jpg",
-  //   category: "React JS, Javascript, Material UI, Context API",
-  //   title: "FindYours",
-  //   link: "https://findyours.netlify.app",
-  //   repo: "https://github.com/murtaja1/find_yours",
-  //   info: "A platform to help people post and find their missing stuff online",
-  // },
-  // {
-  //   image: "/assets/images/portfolio/portfolio-1.jpg",
-  //   category: "React JS , Javascript, HTML, CSS",
-  //   title: "Weather App",
-  //   link: "https://weather-app-othman.netlify.app/",
-  //   repo: "https://github.com/Othmanosx/weather_app_js",
-  //   info: "Weather forecasts over a 6 day period updated each day for more than 2000 cities in the world.",
-  // },
-  // {
-  //   image: "/assets/images/portfolio/portfolio-3.jpg",
-  //   category: "React JS, Javascript, HTML, CSS",
-  //   title: "Hangman Game",
-  //   link: "https://hangman-sand-team.netlify.app/",
-  //   repo: "https://github.com/Othmanosx/hangman_react_js",
-  //   info: "Word guessing game created using ReactJS",
-  // },
-  // {
-  //   image: "/assets/images/portfolio/portfolio-2.jpg",
-  //   category: "Javascript, HTML, CSS, Blogger CMS",
-  //   title: "iTECH Website",
-  //   link: "https://www.itechnopro.com/",
-  //   info: "Technology blog with news, tips and tricks about mobile devices",
-  // },
 ]
 
 const PortfolioList = ({ column, styevariation }) => {

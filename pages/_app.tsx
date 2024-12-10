@@ -24,9 +24,9 @@ export default function App({ Component, pageProps }: AppProps) {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="theme-color" content="#000000" />
 
-        <meta property="og:title" content="Othman | Frontend Developer" />
+        <meta property="og:title" content="Pranjal | Frontend Developer" />
         <meta name="image" property="og:image" content="/portfolio.JPG" />
-        <meta name="author" content="Othman Shareef" />
+        <meta name="author" content="Pranjal Shareef" />
         <meta
           property="og:description"
           content="" />
